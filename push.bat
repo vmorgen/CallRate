@@ -1,0 +1,1 @@
+adb push D:\workspace\CallRate\bin\CallRate.jar /data/local/tmp/
